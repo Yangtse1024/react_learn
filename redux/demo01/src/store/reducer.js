@@ -5,7 +5,7 @@
  */
 import {deepClone} from "../utils/utils";
 
-const defaultState = {  
+const defaultState = {
     inputValue: "",
     todoList: [
         "晨会",
